@@ -1,7 +1,12 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.env
+.streamlit/
 outputs/
 *.csv
 *.json
-.streamlit/
+.ipynb_checkpoints/
+.DS_Store

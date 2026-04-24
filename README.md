@@ -1,4 +1,11 @@
 # Contract Contradiction Detector
+## Demo
+
+### Main Dashboard
+![Home UI](screenshots/home.png)
+
+### Results
+![Results UI](screenshots/results.png)
 
 Detect contradictory clauses in contracts using NLP.
 

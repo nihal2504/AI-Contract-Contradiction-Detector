@@ -1,0 +1,6 @@
+The buyer shall pay all invoices within 30 days of receipt.
+Payment must be completed within 15 days after invoice issue.
+The supplier may terminate this agreement with 30 days notice.
+The supplier shall not terminate this agreement before 60 days notice.
+Customer data must be retained for one year.
+Customer data shall be deleted within 30 days after termination.
